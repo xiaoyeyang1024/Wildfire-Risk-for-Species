@@ -5,6 +5,7 @@ This repository contains the necessary data and Python code used to reproduce th
 
 “Wildfire Risk for Species under Climate Change”
 published in Nature Climate Change.
+
 Repository Contents
 
 data/
